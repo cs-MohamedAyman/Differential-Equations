@@ -7,7 +7,6 @@ Differential equations lectures for computer science students.
 
 * ***Algebra 1 Workbook: The Self-Teaching Guide***, Richard Carter
 * ***Ordinary Differential Equations***, Morris Tenenbaum
-* ***Differential Equations (Quick Study Academic)***, Inc. BarCharts
 * ***The Magic of Math: Solving for x and Figuring Out Why***, Arthur Benjamin
 * ***Differential Equations (with DE Tools Printed Access Card)***, Paul Blanchard
 * ***Schaum's Outline of Differential Equations***, Richard Bronson
